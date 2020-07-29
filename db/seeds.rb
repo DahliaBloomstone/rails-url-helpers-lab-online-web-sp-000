@@ -7,3 +7,5 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 Student.create(first_name: "Dragon", last_name: "Lady")
+
+Student.create(first_name: "Dahlia", last_name: "Bloomstone")
