@@ -9,4 +9,3 @@ resources :students, only: :index #, as:'students'
  end
 
 # resources :students, only: [:index, :show]
-end
